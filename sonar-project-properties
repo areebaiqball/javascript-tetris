@@ -1,0 +1,4 @@
+sonar.projectKey=areebaiqball_javascript-tetris
+sonar.projectName=javascript-tetris
+sonar.sources=.
+sonar.javascript.lcov.reportPaths=coverage/lcov.info
